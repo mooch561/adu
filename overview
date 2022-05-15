@@ -1,0 +1,8 @@
+Setup
+  1. Download Python 3 from https://www.python.org/downloads/. it is free
+  2. Download visual studio code from https://code.visualstudio.com/download. This should also free
+  3. Create an account in github. github is integrated in visual studio code. I guess visual studio code installation will create a git account as well. git is needed for storing different versions of your code.
+  
+  Python Tutorial
+    1. https://docs.python.org/3/tutorial/ can be a starter.
+    2. We will have exercises at the end of some of the milestones in the above tutorial. 
